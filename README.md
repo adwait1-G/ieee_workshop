@@ -14,7 +14,7 @@ Pre-requisites:
           
 
     b.  After installing it , download the [ubuntu-linux](https://www.ubuntu.com/download/desktop) ISO image:
-          Link: https://www.ubuntu.com/download/desktop .
+         
    
 
     c.  Run ubuntu on virtualbox.
