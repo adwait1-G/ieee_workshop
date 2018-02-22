@@ -16,7 +16,8 @@ Resources:
 	This is a book written by a reverse engineer .He shared his experiences of different bugs he encountered and exploited them.A very interesting and motivating book
 
 5. Stealing the Network
+
 	This book consists of fictional stories which are very very close to real hacks.An amazing read. Gives insight into how different each hack could be.
 
-Will add more
+This list will grow bigger.
 
