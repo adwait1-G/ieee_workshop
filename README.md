@@ -46,8 +46,8 @@ c. **ret2libc**     : This directory consists the programs for the Phase2 of the
  Structure of the workshop:
  
  1. *Introduction*: We will be explaining program execution internals , how a function call works .
-  To get started with this , you can go through the following blog-posts.
-  </br>
+  To get started with this , you can go through the following blog-posts.     
+  
       a.  https://ieeenitk.org/blog/introduction-to-reverse-engineering/
   </br>
       b.  https://ieeenitk.org/blog/a-step-ahead-in-reverse-engineering/
