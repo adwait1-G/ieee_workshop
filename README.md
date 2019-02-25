@@ -25,7 +25,9 @@ Pre-requisites:
 3. PEDA for gdb. PEDA - Python Exploit Development Assitance
       
   Install gdb-peda
+  </br>
   `$ git clone https://github.com/longld/peda.git ~/peda`
+  </br>
   `$ echo “source ~/peda/peda.py” >> ~/.gdbinit`
 
 You are ready now!
@@ -45,7 +47,9 @@ c. **ret2libc**     : This directory consists the programs for the Phase2 of the
  
  1. *Introduction*: We will be explaining program execution internals , how a function call works .
   To get started with this , you can go through the following blog-posts.
+  </br>
       a.  https://ieeenitk.org/blog/introduction-to-reverse-engineering/
+  </br>
       b.  https://ieeenitk.org/blog/a-step-ahead-in-reverse-engineering/
       
  2. *Phase1*: This is first part of the  hack.
