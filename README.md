@@ -49,7 +49,7 @@ c. **ret2libc**     : This directory consists the programs for the Phase2 of the
   To get started with this , you can go through the following blog-posts.     
   
       a.  https://ieeenitk.org/blog/introduction-to-reverse-engineering/
-  </br>
+ 
       b.  https://ieeenitk.org/blog/a-step-ahead-in-reverse-engineering/
       
  2. *Phase1*: This is first part of the  hack.
